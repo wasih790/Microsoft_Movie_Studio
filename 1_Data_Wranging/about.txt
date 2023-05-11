@@ -1,2 +1,0 @@
-This folder will hold data cleaning notebooks and other files that is do with cleaning or preparing 
-for data visuals. 

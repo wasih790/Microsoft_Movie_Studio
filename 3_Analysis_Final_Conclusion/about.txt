@@ -1,2 +1,0 @@
-This folder will hold the final pdf, slides and all other non technical/coding files to show 
-stakeholders.  
