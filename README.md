@@ -45,9 +45,17 @@ this director possesses the necessary expertise to bring Microsoft's film vision
 ## Conclusion
 This project provides valuable insights into the best genre, runtime, and director for Microsoft's campaign into the film industry. 
 By leveraging data-driven analysis, we aim to help Microsoft make informed decisions that maximize their chances of success in this competitive industry.
+Click the link for the final analysis
+<a href = "https://github.com/wasih790/Project_1_Microsoft_Movie_Studio/blob/main/3_Analysis_Final_Conclusion/Project_1_Microsoft_Movie.pdf"> Analysis </a>
 
-## Questions?
+## Any Questions? Contact Us.
 
 ### Mohamed K.
 Email: wasihakram@gmail.com
-LinkedIn: <a href="https://www.linkedin.com/in/mohamed-wasih-katherhassan/" target="_blank">Mohamed</a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/mohamed-wasih-katherhassan/"> Mohamed K. </a>
+
+### Mahmoud H.
+Email: mahmoudhosny8711@gmail.com
+
+LinkedIn: <a href="https://www.linkedin.com/in/mahmoud-hosny-79a5b01b8/"> Mahmoud H </a>
