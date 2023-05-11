@@ -15,7 +15,7 @@ Lastly, we have examined various directors' track records to pinpoint the best-s
 
 
 ## Data Analysis
-Using advanced data analysis techniques, I have performed the following tasks:
+Using advanced data analysis techniques, we have performed the following tasks:
 
 1. Genre Analysis: Through comprehensive analysis using SQL and Pandas of the dataset, we have evaluated the performance and popularity 
 of different film genres. By considering factors such as box office revenue, and audience ratings, 
@@ -30,7 +30,7 @@ By considering factors such as box office success, genre compatibility, and runt
 to helm the chosen genre for Microsoft's film.
 
 ## Recommendations
-Based on the analysis conducted, I recommend the following:
+Based on the analysis conducted, we recommend the following:
 
 Genre: Animation - This genre has demonstrated significant success, aligns with the target audience, 
 and presents substantial growth potential for Microsoft's entry into the film industry.
@@ -45,3 +45,9 @@ this director possesses the necessary expertise to bring Microsoft's film vision
 ## Conclusion
 This project provides valuable insights into the best genre, runtime, and director for Microsoft's campaign into the film industry. 
 By leveraging data-driven analysis, we aim to help Microsoft make informed decisions that maximize their chances of success in this competitive industry.
+
+## Questions?
+
+### Mohamed K.
+Email: wasihakram@gmail.com
+LinkedIn: <a href="https://www.linkedin.com/in/mohamed-wasih-katherhassan/" target="_blank">Mohamed</a>
